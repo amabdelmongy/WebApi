@@ -1,0 +1,79 @@
+{
+  "swagger": "2.0",
+  "info": {
+    "title": "Web Api",
+    "description": "API to manage billing service",
+    "version": "1.0.0"
+  },
+  "host": "localhost",
+  "basePath": "/api",
+  "schemes": [
+    "http"
+  ],
+  "consumes": [
+    "application/json"
+  ],
+  "produces": [
+    "application/json"
+  ],
+  "paths": {
+    "/WeatherForecast": {
+      "get": {
+        "tags": [
+          "billing"
+        ],
+        "summary": "Gets all weather forecast.",
+        "operationId": "GetWeatherForecast",
+        "responses": {
+          "200": {
+            "description": "Success",
+            "schema": {
+              "$ref": "#/definitions/WeatherForecastList"
+            }
+          }
+        }
+      }
+    }
+  },
+  "definitions": {
+    "WeatherForecastList": {
+      "type": "array",
+      "items": {
+        "$ref": "#/definitions/BillingScheduleTemplate"
+      }
+    },
+    "WeatherForecast": {
+      "type": "object",
+      "required": [
+        "date",
+        "summary",
+        "temperature"
+      ],
+      "properties": {
+        "Date": {
+          "description": "Represents a date, in the format of ISO 8601.",
+          "type": "string",
+          "format": "YYYY-MM-DDTHH:mm:ssZ",
+          "example": "2020-06-15T01:45:23Z"
+        },
+        "Summary": {
+          "type": "string",
+          "Sample": [
+            "Warm",
+            "Cold"
+          ]
+        },
+        "Temperature": {
+          "type": "int",
+          "description": "The Temperature degree."
+        }
+      }
+    },
+    "tags": [
+      {
+        "name": "Web Api",
+        "description": "Web Api"
+      }
+    ]
+  }
+}
