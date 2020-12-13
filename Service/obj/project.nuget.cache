@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sF65kdfvbZUAdZ2y6jaUHHpbPG94Fb9MyQs1lAQIHQ3+0hMG7Sv085zYjPFlkjbhHJThJIiQMlNzsKKnuQ3NVA==",
+  "dgSpecHash": "FCtu/c9Ygl+aFZBfLl8LKQpcADcFLNbCZw0tUidEM5nK8sA8/C+bfgBel0y8E1EK4run4S8s0ZooAlWp4jdd0Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mongy\\source\\repos\\WebApi\\Service\\Service.csproj",
+  "projectFilePath": "C:\\try\\Git\\WebApi\\Service\\Service.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

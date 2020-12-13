@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wZaJyeqfmjLyekmVnH1G7PkiwSkX8iZZiIbJJAOlXGRO6F+PK7YlLeDVMSRHP2eGXK+b13x72xO4sSiHXUVCng==",
+  "dgSpecHash": "akiGqEca+usxB4Ju9fLQLWRWDPxhb6xS8pPYWAiCpw0403Tq5GnLIETP9BS5WpkKujXvjbsKfm1ZVfhl5g8QDQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mongy\\source\\repos\\WebApi\\WebApi.Test\\WebApi.Test.csproj",
+  "projectFilePath": "C:\\try\\Git\\WebApi\\WebApi.Test\\WebApi.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mongy\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\Mongy\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",

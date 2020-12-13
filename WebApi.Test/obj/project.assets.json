@@ -4867,11 +4867,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mongy\\source\\repos\\WebApi\\WebApi.Test\\WebApi.Test.csproj",
+      "projectUniqueName": "C:\\try\\Git\\WebApi\\WebApi.Test\\WebApi.Test.csproj",
       "projectName": "WebApi.Test",
-      "projectPath": "C:\\Users\\Mongy\\source\\repos\\WebApi\\WebApi.Test\\WebApi.Test.csproj",
+      "projectPath": "C:\\try\\Git\\WebApi\\WebApi.Test\\WebApi.Test.csproj",
       "packagesPath": "C:\\Users\\Mongy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mongy\\source\\repos\\WebApi\\WebApi.Test\\obj\\",
+      "outputPath": "C:\\try\\Git\\WebApi\\WebApi.Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mongy\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4889,8 +4889,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Mongy\\source\\repos\\WebApi\\WebApi\\WebApi.csproj": {
-              "projectPath": "C:\\Users\\Mongy\\source\\repos\\WebApi\\WebApi\\WebApi.csproj"
+            "C:\\try\\Git\\WebApi\\WebApi\\WebApi.csproj": {
+              "projectPath": "C:\\try\\Git\\WebApi\\WebApi\\WebApi.csproj"
             }
           }
         }

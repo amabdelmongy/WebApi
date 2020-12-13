@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mongy\\source\\repos\\WebApi\\Service\\Service.csproj": {}
+    "C:\\try\\Git\\WebApi\\Service\\Service.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mongy\\source\\repos\\WebApi\\Domain\\Domain.csproj": {
+    "C:\\try\\Git\\WebApi\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mongy\\source\\repos\\WebApi\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\try\\Git\\WebApi\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\Mongy\\source\\repos\\WebApi\\Domain\\Domain.csproj",
+        "projectPath": "C:\\try\\Git\\WebApi\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Mongy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mongy\\source\\repos\\WebApi\\Domain\\obj\\",
+        "outputPath": "C:\\try\\Git\\WebApi\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mongy\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -59,14 +59,14 @@
         }
       }
     },
-    "C:\\Users\\Mongy\\source\\repos\\WebApi\\Service\\Service.csproj": {
+    "C:\\try\\Git\\WebApi\\Service\\Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mongy\\source\\repos\\WebApi\\Service\\Service.csproj",
+        "projectUniqueName": "C:\\try\\Git\\WebApi\\Service\\Service.csproj",
         "projectName": "Service",
-        "projectPath": "C:\\Users\\Mongy\\source\\repos\\WebApi\\Service\\Service.csproj",
+        "projectPath": "C:\\try\\Git\\WebApi\\Service\\Service.csproj",
         "packagesPath": "C:\\Users\\Mongy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mongy\\source\\repos\\WebApi\\Service\\obj\\",
+        "outputPath": "C:\\try\\Git\\WebApi\\Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mongy\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -84,8 +84,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Mongy\\source\\repos\\WebApi\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\Mongy\\source\\repos\\WebApi\\Domain\\Domain.csproj"
+              "C:\\try\\Git\\WebApi\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\try\\Git\\WebApi\\Domain\\Domain.csproj"
               }
             }
           }
