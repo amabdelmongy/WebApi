@@ -10,3 +10,15 @@ C:\Users\Mongy\source\repos\WebApi\Service\obj\Debug\netcoreapp3.1\Service.cspro
 C:\Users\Mongy\source\repos\WebApi\Service\obj\Debug\netcoreapp3.1\Service.csproj.CopyComplete
 C:\Users\Mongy\source\repos\WebApi\Service\obj\Debug\netcoreapp3.1\Service.dll
 C:\Users\Mongy\source\repos\WebApi\Service\obj\Debug\netcoreapp3.1\Service.pdb
+C:\try\Git\WebApi\Service\bin\Debug\netcoreapp3.1\Service.deps.json
+C:\try\Git\WebApi\Service\bin\Debug\netcoreapp3.1\Service.dll
+C:\try\Git\WebApi\Service\bin\Debug\netcoreapp3.1\Service.pdb
+C:\try\Git\WebApi\Service\bin\Debug\netcoreapp3.1\Domain.dll
+C:\try\Git\WebApi\Service\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\try\Git\WebApi\Service\obj\Debug\netcoreapp3.1\Service.csprojAssemblyReference.cache
+C:\try\Git\WebApi\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+C:\try\Git\WebApi\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
+C:\try\Git\WebApi\Service\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
+C:\try\Git\WebApi\Service\obj\Debug\netcoreapp3.1\Service.csproj.CopyComplete
+C:\try\Git\WebApi\Service\obj\Debug\netcoreapp3.1\Service.dll
+C:\try\Git\WebApi\Service\obj\Debug\netcoreapp3.1\Service.pdb
