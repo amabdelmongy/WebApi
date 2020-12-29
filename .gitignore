@@ -17,3 +17,4 @@ WebApi/obj/
 /.idea/
 /Domain.Test/obj
 /Domain.Test/bin/
+/packages/
